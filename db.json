@@ -1,5 +1,12 @@
 {
   "ping": {
     "message": "Hello from Smart Dice!"
+  },
+  "getinfo": {
+    "name": "Smart Dice 001",
+    "lightColor": "rgb"
+  },
+  "setnetwork": {
+    "message": "success"
   }
 }
