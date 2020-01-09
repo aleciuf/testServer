@@ -1,3 +1,5 @@
 {
-  "message": "Hello from Smart Dice!"
+  "ping" {
+    "message": "Hello from Smart Dice!"
+  }
 }
